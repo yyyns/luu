@@ -1,0 +1,339 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/modeltech64_2019.2/examples
+T_opt
+!s110 1660135658
+V@NFYiRR6MT5bSoPML=Ll_3
+Z1 04 2 4 work tb fast 0
+=1-002b67eee7bf-62f3a8ea-1d5-46cc
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2019.2;69
+R0
+T_opt2
+!s110 1660135611
+VdT8YNa4LID>f[jQXBiNJ33
+R1
+=1-002b67eee7bf-62f3a8bb-11-4570
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt2
+R3
+R0
+valu
+!s110 1660134245
+!i10b 1
+!s100 R98aNUz^jZacSl0jb_2fL3
+!s11b XE^RQQi<D@f31lFP8KNLM1
+IaB6AXOJfKbF]YHKcY2J`Z2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dE:/Documents/DigitalCircuit/risc_v/tb
+w1660134219
+8E:/Documents/DigitalCircuit/risc_v/rtl/alu.v
+FE:/Documents/DigitalCircuit/risc_v/rtl/alu.v
+L0 1
+Z6 OL;L;2019.2;69
+r1
+!s85 0
+31
+!s108 1660134245.000000
+!s107 E:/Documents/DigitalCircuit/risc_v/rtl/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Documents/DigitalCircuit/risc_v/rtl/alu.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vex
+!s110 1659878422
+!i10b 1
+!s100 hQ5ZNG6i?_RQ[5J3mSIgW0
+!s11b P0[KDlOH?^3WYo=^BhODF0
+IZNHG[noJ[OQ5]k?GW2hF<1
+R4
+R5
+w1659872810
+8E:/Documents/DigitalCircuit/risc_v/rtl/ex.v
+FE:/Documents/DigitalCircuit/risc_v/rtl/ex.v
+L0 23
+R6
+r1
+!s85 0
+31
+!s108 1659878422.000000
+!s107 E:/Documents/DigitalCircuit/risc_v/rtl/ex.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Documents/DigitalCircuit/risc_v/rtl/ex.v|
+!i113 0
+R7
+R2
+vid
+!s110 1660134902
+!i10b 1
+!s100 31gcKhWQezHORO7z^i4cQ0
+!s11b QNbl@JazahEBCW=0l4O`33
+IDmZ712]Um6n_Dg0kYRm8d3
+R4
+R5
+w1660134828
+8E:/Documents/DigitalCircuit/risc_v/rtl/id.v
+FE:/Documents/DigitalCircuit/risc_v/rtl/id.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1660134902.000000
+!s107 E:/Documents/DigitalCircuit/risc_v/rtl/id.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Documents/DigitalCircuit/risc_v/rtl/id.v|
+!i113 0
+R7
+R2
+vid_ex
+!s110 1659856047
+!i10b 1
+!s100 `a^72MQ_P1gRk16UN`;M33
+!s11b Gde:kXo:6[hf2`2Z774VA1
+IjE]CVa4f1n>[A]dkGj_GU1
+R4
+R5
+w1659854383
+8E:/Documents/DigitalCircuit/risc_v/rtl/id_ex.v
+FE:/Documents/DigitalCircuit/risc_v/rtl/id_ex.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1659856047.000000
+!s107 E:/Documents/DigitalCircuit/risc_v/rtl/id_ex.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Documents/DigitalCircuit/risc_v/rtl/id_ex.v|
+!i113 0
+R7
+R2
+vif_id
+Z8 !s110 1659808032
+!i10b 1
+!s100 E:lFVA^MVaHWiE:=]P[Ee3
+!s11b <`OT^HBgJCKfdLK9RV<072
+IKcZ4@b>a_RJ9LDj7zAiGe2
+R4
+R5
+w1659704997
+8E:/Documents/DigitalCircuit/risc_v/rtl/if_id.v
+FE:/Documents/DigitalCircuit/risc_v/rtl/if_id.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z9 !s108 1659808032.000000
+!s107 E:/Documents/DigitalCircuit/risc_v/rtl/if_id.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Documents/DigitalCircuit/risc_v/rtl/if_id.v|
+!i113 0
+R7
+R2
+vifetch
+R8
+!i10b 1
+!s100 no05<ak5D[l;4jjPZP]Hh3
+!s11b 6KBG0z8RSVT8]P01acS5f2
+Ie3VoVR0ma:<2GPVzd<]RY3
+R4
+R5
+w1659107677
+8E:/Documents/DigitalCircuit/risc_v/rtl/ifetch.v
+FE:/Documents/DigitalCircuit/risc_v/rtl/ifetch.v
+L0 1
+R6
+r1
+!s85 0
+31
+R9
+!s107 E:/Documents/DigitalCircuit/risc_v/rtl/ifetch.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Documents/DigitalCircuit/risc_v/rtl/ifetch.v|
+!i113 0
+R7
+R2
+vifetch_soc
+!s110 1659806618
+!i10b 1
+!s100 85lN[ALGQkM?Sa6COmK<P3
+!s11b Z9S;N6NGG9eYP:C9Q4Gf`2
+IKn0:[LL]4lYeb=Eel4IZb3
+R4
+R5
+w1659806568
+8E:/Documents/DigitalCircuit/risc_v/tb/test_ifetch.v
+FE:/Documents/DigitalCircuit/risc_v/tb/test_ifetch.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1659806618.000000
+!s107 E:/Documents/DigitalCircuit/risc_v/tb/test_ifetch.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Documents/DigitalCircuit/risc_v/tb/test_ifetch.v|
+!i113 0
+R7
+R2
+vpc
+R8
+!i10b 1
+!s100 gM2l[IUk?flIUe^o>ZAVC3
+!s11b cQf9Yl;<m3aQVn@=Z5H@I0
+IP8fY?2gdK6PL5KHQ07On=2
+R4
+R5
+w1659705501
+Z10 8E:/Documents/DigitalCircuit/risc_v/rtl/pc_reg.v
+Z11 FE:/Documents/DigitalCircuit/risc_v/rtl/pc_reg.v
+L0 1
+R6
+r1
+!s85 0
+31
+R9
+Z12 !s107 E:/Documents/DigitalCircuit/risc_v/rtl/pc_reg.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Documents/DigitalCircuit/risc_v/rtl/pc_reg.v|
+!i113 0
+R7
+R2
+vpc_reg
+!s110 1659368606
+!i10b 1
+!s100 ThXMVCGgS800DC^m>l]`m2
+!s11b N3ULFL8lXPnQ`k`Z>S<gd2
+IOOG^Th0TAi^6;g;a9Y[5k3
+R4
+R5
+w1659368153
+R10
+R11
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1659368606.000000
+R12
+R13
+!i113 0
+R7
+R2
+vram
+!s110 1659884237
+!i10b 1
+!s100 R8DkCVTVFW80nJJBfSgZz0
+!s11b G^3a`7XMN5J6amP2f[1UT2
+I3lma`obiCXFzMgdl=ZXmO2
+R4
+R5
+w1659884196
+8E:/Documents/DigitalCircuit/risc_v/rtl/ram.v
+FE:/Documents/DigitalCircuit/risc_v/rtl/ram.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1659884237.000000
+!s107 E:/Documents/DigitalCircuit/risc_v/rtl/ram.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Documents/DigitalCircuit/risc_v/rtl/ram.v|
+!i113 0
+R7
+R2
+vregs
+!s110 1659882966
+!i10b 1
+!s100 ;IW4]c[IeBRLA=nhejHZd0
+!s11b g1LNaZSDQ8F2kP2FKKY]g1
+IgdlSD=`_b`^BSZcCgZ0=T1
+R4
+R5
+w1659882959
+8E:/Documents/DigitalCircuit/risc_v/rtl/regs.v
+FE:/Documents/DigitalCircuit/risc_v/rtl/regs.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1659882966.000000
+!s107 E:/Documents/DigitalCircuit/risc_v/rtl/regs.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Documents/DigitalCircuit/risc_v/rtl/regs.v|
+!i113 0
+R7
+R2
+vrom
+!s110 1659853137
+!i10b 1
+!s100 KmmZ]cWk>B>E:U]:CT^PT1
+!s11b >43<eP@0:3=RJzUEPX9_f3
+INH:n>1imUzH1TT<_FFC5H1
+R4
+R5
+w1659852807
+8E:/Documents/DigitalCircuit/risc_v/rtl/rom.v
+FE:/Documents/DigitalCircuit/risc_v/rtl/rom.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1659853137.000000
+!s107 E:/Documents/DigitalCircuit/risc_v/rtl/rom.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Documents/DigitalCircuit/risc_v/rtl/rom.v|
+!i113 0
+R7
+R2
+vsoc
+!s110 1659856037
+!i10b 1
+!s100 eRbaW6XcUeo[=TA36dg360
+!s11b `nmPD?Y<4eC@Egh]S2o0^3
+I_RK@VD=KD9Q53<hm:?]Uo0
+R4
+R5
+w1659855916
+8E:/Documents/DigitalCircuit/risc_v/tb/test_soc.v
+FE:/Documents/DigitalCircuit/risc_v/tb/test_soc.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1659856037.000000
+!s107 E:/Documents/DigitalCircuit/risc_v/tb/test_soc.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Documents/DigitalCircuit/risc_v/tb/test_soc.v|
+!i113 0
+R7
+R2
+vtb
+!s110 1659882305
+!i10b 1
+!s100 mVB[?h5ZYe@`iddbPO>Ec0
+!s11b 8?>T@L53j5Pkf@aBG>SZN1
+IIM<WY4j:5@1cJ4@_K8NbR1
+R4
+R5
+w1659853415
+8E:/Documents/DigitalCircuit/risc_v/tb/tb.v
+FE:/Documents/DigitalCircuit/risc_v/tb/tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1659882305.000000
+!s107 E:/Documents/DigitalCircuit/risc_v/tb/tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Documents/DigitalCircuit/risc_v/tb/tb.v|
+!i113 0
+R7
+R2
